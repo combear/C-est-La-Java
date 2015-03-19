@@ -1,3 +1,7 @@
+/**
+ * @author combear
+ * featuring Charlotte
+ */
 public class PileEntiersPositifsOuNuls
 {
 
